@@ -1,2 +1,2 @@
-# Calculator
-A basic calculator .
+# JAVA Elementary Code
+java code
